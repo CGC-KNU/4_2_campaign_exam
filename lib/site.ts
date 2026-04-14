@@ -1,4 +1,4 @@
-const FALLBACK_SITE_URL = 'https://blank-idelle-coggiri-1527fb3e.koyeb.app/'
+const FALLBACK_SITE_URL = 'https://awkward-joete-coggiri-bd417fe3.koyeb.app/'
 
 function normalizeSiteUrl(url: string) {
   return url.endsWith('/') ? url : `${url}/`
